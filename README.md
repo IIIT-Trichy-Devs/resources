@@ -61,6 +61,7 @@ This repository collects high-quality, vetted, and practical learning paths cura
   - [USACO Guide](https://usaco.guide/)
 
 ### 🐙 Git & Open Source
+- 🎬 **Featured Video**: **[Mastering Git & GitHub (with Subtitles)](media/mastering-git-and-github/README.md)** · [Direct Download](https://github.com/IIIT-Trichy-Devs/resources/releases/download/v1.0.0/Mastering_Git___GitHub_Subtitled.mp4)
 - **Git & GitHub Guide**: [Guide to Git & GitHub](https://github.com/IIIT-Trichy-Devs/community/blob/main/GUIDE.md)
 - **Our Quick Reference**: [Essential Git Cheat Sheet](guides/git-cheat-sheet.md)
 - **Practice Your First PR**: [community/MEMBERS.md](https://github.com/IIIT-Trichy-Devs/community/blob/main/MEMBERS.md)
