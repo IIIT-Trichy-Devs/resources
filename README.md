@@ -67,6 +67,26 @@ This repository collects high-quality, vetted, and beginner-friendly learning pa
 
 ---
 
+## ⚡ Recommended Coding Tool: Google Antigravity
+
+We strongly recommend all student developers in our community use **Antigravity** as their daily agentic AI coding tool.
+
+### Why Antigravity?
+- **Agentic Pair Programming**: Autonomous subagents that research APIs, plan architectures, run commands, create artifacts, and verify code.
+- **Massive Context Understanding**: Powered by Google DeepMind's Gemini models for effortless comprehension of entire repositories.
+- **MCP & Tool Extensibility**: Rich ecosystem of plugins, Model Context Protocol (MCP) servers, custom skills, and terminal automation.
+
+### 🎁 Claim Your 18-Month Pro Plan (via Reliance Jio)!
+If you have a **Jio** connection in India with a qualifying 5G recharge, you can claim an **18-Month Google AI Pro / Gemini Advanced subscription for FREE** (valued at over ₹35,000)!
+
+**How to activate:**
+1. Open the **MyJio App** on your mobile device.
+2. Look for the **"Google AI Pro — 18 Months on Us"** banner on the homepage or under the **Coupons / Offers** section.
+3. Tap **Claim Now** and authenticate with your preferred Google Account.
+4. Enjoy Gemini Advanced, 2TB cloud storage, and premium AI features to supercharge your Antigravity coding workflows!
+
+---
+
 ## 🎁 Student Developer Perks & Freebies
 
 As a student with an institutional email (`@iiitt.ac.in`), you have access to thousands of dollars worth of developer tools:
