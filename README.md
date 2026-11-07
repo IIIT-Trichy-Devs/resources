@@ -61,6 +61,9 @@ This repository collects high-quality, vetted, and beginner-friendly learning pa
   - [USACO Guide](https://usaco.guide/)
 
 ### 🐙 Git & Open Source
+- **Our Beginner's Guide**: [Beginner's Guide to Git & GitHub](https://github.com/IIIT-Trichy-Devs/community/blob/main/BEGINNERS_GUIDE.md)
+- **Our Quick Reference**: [Essential Git Cheat Sheet](guides/git-cheat-sheet.md)
+- **Practice Your First PR**: [community/MEMBERS.md](https://github.com/IIIT-Trichy-Devs/community/blob/main/MEMBERS.md)
 - **Interactive Git Tutorial**: [Learn Git Branching](https://learngitbranching.js.org/)
 - **GitHub Guides**: [GitHub Skills](https://skills.github.com/)
 - **Student Open Source Programs**: Google Summer of Code (GSOC), Hacktoberfest, LFX Mentorship, MLH Fellowship
