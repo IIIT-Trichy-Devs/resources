@@ -32,7 +32,7 @@
 
 Navigating modern software development can feel overwhelming with thousands of tutorials and courses online.
 
-This repository collects high-quality, vetted, and beginner-friendly learning paths curated by students, seniors, and alumni at **IIIT Trichy**.
+This repository collects high-quality, vetted, and practical learning paths curated by students, seniors, and alumni at **IIIT Trichy**.
 
 ---
 
@@ -61,7 +61,7 @@ This repository collects high-quality, vetted, and beginner-friendly learning pa
   - [USACO Guide](https://usaco.guide/)
 
 ### 🐙 Git & Open Source
-- **Our Beginner's Guide**: [Beginner's Guide to Git & GitHub](https://github.com/IIIT-Trichy-Devs/community/blob/main/BEGINNERS_GUIDE.md)
+- **Git & GitHub Guide**: [Guide to Git & GitHub](https://github.com/IIIT-Trichy-Devs/community/blob/main/GUIDE.md)
 - **Our Quick Reference**: [Essential Git Cheat Sheet](guides/git-cheat-sheet.md)
 - **Practice Your First PR**: [community/MEMBERS.md](https://github.com/IIIT-Trichy-Devs/community/blob/main/MEMBERS.md)
 - **Interactive Git Tutorial**: [Learn Git Branching](https://learngitbranching.js.org/)

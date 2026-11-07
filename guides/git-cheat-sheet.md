@@ -1,4 +1,4 @@
-# 🛠️ Essential Git & GitHub Cheat Sheet for Beginners
+# 🛠️ Essential Git & GitHub Cheat Sheet
 
 A quick-reference guide for student developers at IIIT Trichy.
 
@@ -76,7 +76,7 @@ git pull origin main
 
 ---
 
-## 🆘 Oops! How to Fix Common Beginner Mistakes
+## 🆘 How to Fix Common Mistakes
 
 ### 1. I made a typo in my last commit message
 ```bash
